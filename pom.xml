@@ -24,6 +24,12 @@
         </developer>
     </developers>
 
+    <scm>
+        <connection>scm:git:git://github.com/RedBeardLab/JRediSQL.git</connection>
+        <developerConnection>scm:git:ssh://github.com:RedBeardLab/JRediSQL.git</developerConnection>
+        <url>https://github.com/RedBeardLab/JRediSQL/tree/master/</url>
+    </scm>
+
     <dependencies>
         <dependency>
             <groupId>redis.clients</groupId>
